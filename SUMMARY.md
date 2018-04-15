@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Recursion](recursion.md)
-* Basic
+* [Basic](basic.md)
 
