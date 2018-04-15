@@ -1,6 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Recursion](recursion.md)
-* [Basic](basic.md)
+* [Dynamic Programming](recursion.md)
 
